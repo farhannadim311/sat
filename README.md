@@ -1,4 +1,6 @@
 # sat
+-  **Website Link**: - https://sat-p36z.onrender.com/
+ 
 # 📚 SAT-Based Student Room Scheduling Solver
 
 This project implements a constraint-based **room scheduling system** using **Boolean Satisfiability (SAT)** — one of the foundational problems in computer science and artificial intelligence.
